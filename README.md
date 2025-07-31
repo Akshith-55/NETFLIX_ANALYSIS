@@ -6,7 +6,7 @@ This project explores global Netflix content using SQL. It uncovers insights suc
 
 ## Dataset
 
-- **Source**: [Netflix Movies and TV Shows – Kaggle](https://www.kaggle.com/datasets/netflix-shows)
+- **Source**: [Netflix Movies and TV Shows – Kaggle]((https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download))
 - **Format**: Excel (`netflix_titles.xlsx`)
 
 
